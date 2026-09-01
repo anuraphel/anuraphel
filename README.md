@@ -94,16 +94,16 @@ I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in
 
 <p align="center">
   <a href="https://github.com/anuraphel">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraphel&show_icons=true&theme=tokyonight&cache=1" alt="Anu Raphel's GitHub Stats" height="192" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anuraphel&show_icons=true&theme=tokyonight&v=2" alt="Anu Raphel's GitHub Stats" height="192" />
   </a>
   <a href="https://github.com/anuraphel">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraphel&theme=tokyonight&layout=compact&cache=1" alt="Top Languages" height="192" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anuraphel&theme=tokyonight&layout=compact&v=2" alt="Top Languages" height="192" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraphel">
-    <img src="https://streak-stats.demolab.com?user=anuraphel&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=anuraphel&theme=tokyonight&v=2" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -113,7 +113,7 @@ I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in
 
 <p align="center">
   <a href="https://github.com/anuraphel">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraphel&theme=tokyonight&cache=1" alt="Contribution Graph" />
+    <img src="https://activity-graph.vercel.app/graph?username=anuraphel&theme=tokyonight&v=2" alt="Contribution Graph" />
   </a>
 </p>
 
