@@ -35,16 +35,58 @@ I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraphel&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="Anu Raphel's GitHub Stats" />
+  <a href="https://github.com/anuraphel/WebSEEK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraphel&repo=WebSEEK&theme=dark" alt="WebSEEK" />
+  </a>
+  <a href="https://github.com/anuraphel/Cognitive-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraphel&repo=Cognitive-AI&theme=dark" alt="CogniLearn" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraphel/taxorr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraphel&repo=taxorr&theme=dark" alt="Taxorr" />
+  </a>
+</p>
+
+---
+
+## 🎓 Education
+
+| Institution | Course / Degree | Score / Grades | Duration / Year |
+| :--- | :--- | :--- | :--- |
+| **Govt. Model Engineering College, Kochi** | B.Tech in Computer Science Engineering (KTU) | **9.29 CGPA** | 2023 - 2027 |
+| **St. Pauls Public School** | 12th CBSE | **92.2%** | 2022 |
+| **Lord’s Academy** | 10th ICSE | **95.3%** | 2020 |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraphel&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="Anu Raphel's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraphel&layout=compact&theme=dark&border_radius=10" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuraphel&theme=dark&border_radius=10" alt="GitHub Streak" />
 </p>
 
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraphel&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraphel&theme=react-dark" alt="Contribution Graph" />
 </p>
+
+---
+
+## 📬 Let's Connect!
+
+- 📧 **Email:** [anuraph123@gmail.com](mailto:anuraph123@gmail.com)
+- 💼 **LinkedIn:** [Anu Raphel](https://www.linkedin.com/in/anu-raphel-1798ba291/)
+- 🔗 **Portfolio:** [Portfolio Website](https://anuraphel.github.io/portfolio/)
+- 🌐 **GitHub:** [@anuraphel](https://github.com/anuraphel)
