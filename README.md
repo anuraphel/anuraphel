@@ -14,7 +14,7 @@ I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in
 - ⚙️ **Specializations:** RAG Architectures, Vector Search (pgvector/Elasticsearch), FastAPI Backends, & React Frontends
 - 🚀 **Featured Projects:** [WebSEEK](https://github.com/anuraphel/WebSEEK), [CogniLearn](https://github.com/anuraphel/Cognitive-AI), [Taxorr](https://github.com/anuraphel/taxorr)
 - 💬 **Ask me about:** FastAPI, Python, pgvector, React, & RAG pipelines
-- 🌐 **Portfolio Website:** [anuraphel.github.io/portfolio](https://anuraphel.github.io/portfolio/)
+- 🌐 **Portfolio Website:** [anuraphel.github.io/portfolio](https://portfolio-anuraphels-projects.vercel.app/)
 - 📫 **How to reach me:** [anuraph123@gmail.com](mailto:anuraph123@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anu-raphel-1798ba291/) | [Instagram](https://www.instagram.com/anu__raphel/)
 
 ---
@@ -124,5 +124,5 @@ I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in
 
 - 📧 **Email:** [anuraph123@gmail.com](mailto:anuraph123@gmail.com)
 - 💼 **LinkedIn:** [Anu Raphel](https://www.linkedin.com/in/anu-raphel-1798ba291/)
-- 🔗 **Portfolio:** [Portfolio Website](https://anuraphel.github.io/portfolio/)
+- 🔗 **Portfolio:** [Portfolio Website](https://portfolio-anuraphels-projects.vercel.app/)
 - 🌐 **GitHub:** [@anuraphel](https://github.com/anuraphel)
