@@ -93,15 +93,20 @@ I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraphel&show_icons=true&theme=dark&locale=en" alt="Anu Raphel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraphel&show_icons=true&theme=tokyonight&locale=en" alt="Anu Raphel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraphel&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraphel&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=anuraphel&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anuraphel&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraphel&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
 ---
