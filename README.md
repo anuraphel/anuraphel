@@ -93,12 +93,18 @@ I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraphel&show_icons=true&theme=tokyonight&locale=en" alt="Anu Raphel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraphel&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/anuraphel">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraphel&show_icons=true&theme=tokyonight" alt="Anu Raphel's GitHub Stats" height="192" />
+  </a>
+  <a href="https://github.com/anuraphel">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraphel&theme=tokyonight&layout=compact" alt="Top Languages" height="192" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anuraphel&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/anuraphel">
+    <img src="https://streak-stats.demolab.com?user=anuraphel&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -106,7 +112,9 @@ I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraphel&theme=tokyonight" alt="Contribution Graph" />
+  <a href="https://github.com/anuraphel">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraphel&theme=tokyonight" alt="Contribution Graph" />
+  </a>
 </p>
 
 ---
