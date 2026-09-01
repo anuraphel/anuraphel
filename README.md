@@ -109,12 +109,13 @@ I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/anuraphel">
-    <img src="https://activity-graph.vercel.app/graph?username=anuraphel&theme=tokyonight&v=2" alt="Contribution Graph" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuraphel/anuraphel/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/anuraphel/anuraphel/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
