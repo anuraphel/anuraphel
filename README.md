@@ -37,19 +37,46 @@ I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/anuraphel/WebSEEK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraphel&repo=WebSEEK&theme=dark" alt="WebSEEK" />
-  </a>
-  <a href="https://github.com/anuraphel/Cognitive-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraphel&repo=Cognitive-AI&theme=dark" alt="CogniLearn" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraphel/taxorr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraphel&repo=taxorr&theme=dark" alt="Taxorr" />
-  </a>
-</p>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🔍 WebSEEK</h3>
+        <p align="center"><b>AI Research & Knowledge Extraction Engine</b></p>
+        <p>Built an AI research engine combining real-time crawling, vector semantic search (pgvector & Elasticsearch), contradiction detection, and LLM dossier synthesis.</p>
+        <p align="center">
+          <a href="https://github.com/anuraphel/WebSEEK"><b>📂 View Repository »</b></a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🧠 CogniLearn</h3>
+        <p align="center"><b>Neurodiversity AI Learning Tutor</b></p>
+        <p>Designed an AI learning assistant simplifying dense educational materials into digestible structures and tailored visual maps for neurodivergent students using NLP.</p>
+        <p align="center">
+          <a href="https://github.com/anuraphel/Cognitive-AI"><b>📂 View Repository »</b></a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">📄 Taxorr</h3>
+        <p align="center"><b>Multimodal OCR & Accounting Engine</b></p>
+        <p>Multimodal handwritten bill extraction engine benchmarking Gemini, Claude, GPT-4o, and Groq with Pydantic validation and Zoho Books API sync.</p>
+        <p align="center">
+          <a href="https://github.com/anuraphel/taxorr"><b>📂 View Repository »</b></a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">⚡ Portfolio Website</h3>
+        <p align="center"><b>Luxury Scrollytelling Web System</b></p>
+        <p>Minimalist dark developer portfolio featuring ambient particle canvas renderer, 3D interactive tilt cards, and Lenis smooth inertial scrolling.</p>
+        <p align="center">
+          <a href="https://github.com/anuraphel/portfolio"><b>📂 View Repository »</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -66,20 +93,15 @@ I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraphel&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="Anu Raphel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraphel&layout=compact&theme=dark&border_radius=10" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraphel&show_icons=true&theme=dark&locale=en" alt="Anu Raphel's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuraphel&theme=dark&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraphel&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
----
-
-## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraphel&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=anuraphel&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
