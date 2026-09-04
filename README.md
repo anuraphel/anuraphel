@@ -10,7 +10,7 @@
 
 I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in Computer Science & Engineering at **Govt. Model Engineering College, Kochi** (9.29 CGPA, Machine Learning Honours).
 
-- 🎓 **Education:** B.Tech in CSE @ Model Engineering College | **9.29 CGPA** | ML Honours (KTU '27)
+- 🎓 **Education:** B.Tech in CSE @ Model Engineering College (MEC'27)
 - ⚙️ **Specializations:** RAG Architectures, Vector Search (pgvector/Elasticsearch), FastAPI Backends, & React Frontends
 - 🚀 **Featured Projects:** [WebSEEK](https://github.com/anuraphel/WebSEEK), [CogniLearn](https://github.com/anuraphel/Cognitive-AI), [Taxorr](https://github.com/anuraphel/taxorr)
 - 💬 **Ask me about:** FastAPI, Python, pgvector, React, & RAG pipelines
