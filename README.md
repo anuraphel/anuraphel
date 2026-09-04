@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in Computer Science & Engineering at **Govt. Model Engineering College, Kochi** (9.29 CGPA, Machine Learning Honours).
+I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in Computer Science & Engineering at **Govt. Model Engineering College, Kochi** .
 
 - 🎓 **Education:** B.Tech in CSE @ Model Engineering College (MEC'27)
 - ⚙️ **Specializations:** RAG Architectures, Vector Search (pgvector/Elasticsearch), FastAPI Backends, & React Frontends
