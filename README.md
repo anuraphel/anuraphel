@@ -66,14 +66,6 @@ I am a dedicated **AI/ML Engineer & Full-Stack Developer** pursuing my B.Tech in
           <a href="https://github.com/anuraphel/taxorr"><b>📂 View Repository »</b></a>
         </p>
       </td>
-      <td width="50%" valign="top">
-        <h3 align="center">⚡ Portfolio Website</h3>
-        <p align="center"><b>Luxury Scrollytelling Web System</b></p>
-        <p>Minimalist dark developer portfolio featuring ambient particle canvas renderer, 3D interactive tilt cards, and Lenis smooth inertial scrolling.</p>
-        <p align="center">
-          <a href="https://github.com/anuraphel/portfolio"><b>📂 View Repository »</b></a>
-        </p>
-      </td>
     </tr>
   </table>
 </div>
